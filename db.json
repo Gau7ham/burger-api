@@ -895,6 +895,35 @@
           "country": "The Czech Republic"
         }
       ]
+    },
+    {
+      "id": 28,
+      "name": "Indian Spicy",
+      "restaurant": "Indian Gully Burger",
+      "web": "www.theIndianstreet.in",
+      "description": "Burger made with Indian Spices",
+      "ingredients": [
+        "Chicken Breast",
+        "cheddar cheese",
+        "Corn Flour and Rava ",
+        "onion",
+        "mozzarella",
+        "Goat Meat ",
+        "Mayonaise",
+        "Indian Sos",
+        "Eggs",
+        "Crispy potato slices"
+      ],
+      "addresses": [
+        {
+          "addressId": 0,
+          "number": "202",
+          "line1": "Khao Galli ",
+          "line2": "Khao Nagar",
+          "postcode": "15093",
+          "country": "India"
+        }
+      ]
     }
   ]
 }
